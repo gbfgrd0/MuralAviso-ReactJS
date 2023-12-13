@@ -1,0 +1,12 @@
+#container{
+    max-width: 600px;
+}
+
+.borda-preta{
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.maxWidt{
+    word-wrap: break-word;
+}
